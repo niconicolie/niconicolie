@@ -1,6 +1,6 @@
-<p align="center"><strong>currently studying:</strong></p>
+<p align="center"><strong>⭒ ⊹ Currently Studying ⊹ ⭒</strong></p>
 <br>
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Nodejs logo"  />
   <img width="12" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="Nodejs logo"  />
@@ -31,6 +31,8 @@
   <img width="12" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" height="30" alt="Ubuntu logo"  />
   <img width="12" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Postman logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="30" alt="Postman logo"  />
   <img width="12" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="30" alt="Composer logo"  />
@@ -41,6 +43,8 @@
   <br><br>
   
   <div align="center">
-    <strong>Github Stats<strong><br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niconicolie&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="nicole-jc's GitHub Stats" />
+    <strong>⭒ ⊹ Github Stats ⊹ ⭒<strong><br><br>
+  <a href="https://github.com/mari4souza/github-readme-stats">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=niconicolie&line_height=10&card_width=200&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=471168&hide=html,scss,less&bg_color=e5bcff&text_color=471168&border_radius=3&border_color=471168&count_private=true" alt="Most Used Languages">
+  </a>
   </div>
