@@ -1,5 +1,5 @@
-I'm studying:
-
+<p align="center"><strong>currently studying:</strong></p>
+<br>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Nodejs logo"  />
   <img width="12" /> 
@@ -37,3 +37,10 @@ I'm studying:
   <img width="12" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="NPM logo"  />
   <img width="12" /> 
+</div>
+  <br><br>
+  
+  <div align="center">
+    <strong>Github Stats<strong><br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niconicolie&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="nicole-jc's GitHub Stats" />
+  </div>
