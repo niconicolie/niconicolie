@@ -41,10 +41,22 @@
   <img width="12" /> 
 </div>
   <br><br>
-  
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=e5bcff&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+  <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=471168&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linktree logo"  />
+  <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=e5bcff&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linktree logo"  />
+  <img src="https://img.shields.io/static/v1?message=Backloggd&logo=Backloggd&label=&color=471168&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linktree logo"  />
+</div>
+<br>
   <div align="center">
     <strong>⭒ ⊹ Github Stats ⊹ ⭒<strong><br><br>
   <a href="https://github.com/mari4souza/github-readme-stats">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=niconicolie&line_height=10&card_width=200&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=471168&hide=html,scss,less&bg_color=e5bcff&text_color=471168&border_radius=3&border_color=471168&count_private=true" alt="Most Used Languages">
   </a>
   </div>
+  <br>
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nicole-jc/nicole-jc/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nicole-jc/nicole-jc/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/niconicolie/niconicolie/output/pacman-contribution-graph.svg">
+</picture>
