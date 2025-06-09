@@ -55,10 +55,12 @@ The main purpose of this account is to store all my codes, including the unfinis
   <br><br>
 <div align="center">
   <strong>❤️ Links ❤️</strong><br><br>
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=e5bcff&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-  <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=471168&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linktree logo"  />
-  <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=e5bcff&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linktree logo"  />
-  <img src="https://img.shields.io/static/v1?message=Backloggd&logo=Backloggd&label=&color=471168&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linktree logo"  />
+  
+[![dev.to](https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=e5bcff&logoColor=white&labelColor=&style=for-the-badge)](https://dev.to/nicole_cj)
+[![Linktree](https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=471168&logoColor=white&labelColor=&style=for-the-badge)](https://linktr.ee/nicolecj)
+[![GitHub](https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=e5bcff&logoColor=white&labelColor=&style=for-the-badge)](https://github.com/nicole-jc)
+[![Backloggd](https://img.shields.io/static/v1?message=Backloggd&logo=Backloggd&label=&color=471168&logoColor=white&labelColor=&style=for-the-badge)](https://www.backloggd.com/nforelsket)
+
 </div>
 <br>
 
